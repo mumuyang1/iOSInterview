@@ -11,5 +11,7 @@ import UIKit
 
 class ShopViewController: UIViewController {
 
-  
+  func showList(data: String) -> String {
+    return "1 data"
+  }
 }
